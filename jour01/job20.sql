@@ -1,0 +1,1 @@
+select count(*) as nbr_etudiant_mineur from etudiants where age < 18;

@@ -1,0 +1,1 @@
+select count(*) as nbr_etudiant_18_25 from etudiants where age >= 18 AND age <= 25;

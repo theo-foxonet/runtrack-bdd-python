@@ -1,0 +1,1 @@
+select count(*) as nbr_etudiant from etudiants;

@@ -1,0 +1,1 @@
+update etudiants set age = 20 where prenom = 'Betty' and age = 23;
